@@ -1,0 +1,6 @@
+*.settings 
+2 *.class 
+3 *.project 
+4 *.metadata 
+5 *.classpath 
+6 *.gitignore 
